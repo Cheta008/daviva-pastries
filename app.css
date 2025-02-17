@@ -31,3 +31,23 @@ nav a:hover,
 nav li.active a {
     color: blueviolet;
 }
+
+.homepart h1,h3{
+    color: white;
+}
+
+.homepart{
+  background-image: url(/images/smallchops.jpg);
+  vertical-align: middle;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1000px;
+  width: 100%;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+ h1,h2,p {
+    text-align: center;
+}
